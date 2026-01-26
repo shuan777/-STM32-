@@ -1,3 +1,3 @@
 # -STM32-
-STM32+free-RTOS+温湿度光照传感器+OLED+MTQQ协议+云平台
+STM32+Free-RTOS+温湿度光照传感器+OLED+MTQQ协议+云平台
 考虑客户需求文档，技术架构文档，具体技术实现文档，学习项目思想。
